@@ -1,0 +1,16 @@
+:root {
+  --strong-cyan: #28bfce;
+  --hunter-green: #365a31;
+  --spicy-orange: #cc4c19;
+  --goldenrod: #d19815;
+  --rich-cerulean: #3279bc;
+  --charcoal-blue: #263e45;
+
+  --red: var(--spicy-orange);
+  --grean: var(--hunter-green);
+  --blue: var(--rich-cerulean);
+  --yellow: var(--goldenrod);
+
+  --cyan: var(--strong-cyan);
+  --blackish: var(--charcoal-blue);
+}
