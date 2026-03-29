@@ -1,0 +1,8 @@
+header {
+  padding-block-start: var(--space-3xl);
+  padding-block-end: var(--space-2xl);
+}
+
+section {
+  padding-block: var(--space-2xl);
+}
