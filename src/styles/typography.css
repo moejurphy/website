@@ -1,6 +1,8 @@
 body {
   font-size: var(--step-1);
   font-family: "Alegreya Sans", sans-serif;
+  background-color: var(--white);
+  color: var(--black);
 }
 
 h1 {
