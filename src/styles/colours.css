@@ -2,7 +2,10 @@
   --red: #cc4c19;
   --green: #365a31;
   --blue: #3279bc;
+  --darkblue: #263e45;
   --yellow: #d19815;
   --cyan: #28bfce;
-  --blackish: #263e45;
+
+  --white: #fdf9f0; /* Warm off-white, inspired by yellow */
+  --black: #1e2e34; /* Darker, richer variant of darkblue */
 }
