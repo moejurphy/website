@@ -9,3 +9,133 @@
   --white: #fdf9f0; /* Warm off-white, inspired by yellow */
   --black: #1e2e34; /* Darker, richer variant of darkblue */
 }
+
+.white-on-green-AAA {
+  color: var(--white);
+  background-color: var(--green);
+}
+
+.white-on-darkblue-AAA {
+  color: var(--white);
+  background-color: var(--darkblue);
+}
+
+.green-on-white-AAA {
+  color: var(--green);
+  background-color: var(--white);
+}
+
+.darkblue-on-white-AAA {
+  color: var(--darkblue);
+  background-color: var(--white);
+}
+
+.black-on-white-AAA {
+  color: var(--black);
+  background-color: var(--white);
+}
+
+.white-on-black-AAA {
+  color: var(--white);
+  background-color: var(--black);
+}
+
+.cyan-on-darkblue-AA {
+  color: var(--cyan);
+  background-color: var(--darkblue);
+}
+
+.black-on-yellow-AA {
+  color: var(--black);
+  background-color: var(--yellow);
+}
+
+.darkblue-on-cyan-AA {
+  color: var(--darkblue);
+  background-color: var(--cyan);
+}
+
+.black-on-cyan-AA {
+  color: var(--black);
+  background-color: var(--cyan);
+}
+
+.yellow-on-black-AA {
+  color: var(--yellow);
+  background-color: var(--black);
+}
+
+.cyan-on-black-AA {
+  color: var(--cyan);
+  background-color: var(--black);
+}
+
+.white-on-red-AA-large {
+  color: var(--white);
+  background-color: var(--red);
+}
+
+.black-on-red-AA-large {
+  color: var(--black);
+  background-color: var(--red);
+}
+
+.yellow-on-green-AA-large {
+  color: var(--yellow);
+  background-color: var(--green);
+}
+
+.cyan-on-green-AA-large {
+  color: var(--cyan);
+  background-color: var(--green);
+}
+
+.white-on-blue-AA-large {
+  color: var(--white);
+  background-color: var(--blue);
+}
+
+.black-on-blue-AA-large {
+  color: var(--black);
+  background-color: var(--blue);
+}
+
+.yellow-on-darkblue-AA-large {
+  color: var(--yellow);
+  background-color: var(--darkblue);
+}
+
+.green-on-yellow-AA-large {
+  color: var(--green);
+  background-color: var(--yellow);
+}
+
+.darkblue-on-yellow-AA-large {
+  color: var(--darkblue);
+  background-color: var(--yellow);
+}
+
+.green-on-cyan-AA-large {
+  color: var(--green);
+  background-color: var(--cyan);
+}
+
+.red-on-white-AA-large {
+  color: var(--red);
+  background-color: var(--white);
+}
+
+.blue-on-white-AA-large {
+  color: var(--blue);
+  background-color: var(--white);
+}
+
+.red-on-black-AA-large {
+  color: var(--red);
+  background-color: var(--black);
+}
+
+.blue-on-black-AA-large {
+  color: var(--blue);
+  background-color: var(--black);
+}
