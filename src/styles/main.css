@@ -3,3 +3,8 @@
 @import "colours.css";
 @import "typography.css";
 @import "composition.css";
+
+header {
+  padding-block-start: var(--space-3xl);
+  padding-block-end: var(--space-2xl);
+}

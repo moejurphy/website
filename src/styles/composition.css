@@ -4,6 +4,10 @@
   max-width: 60rem;
 }
 
+section {
+  padding-block: var(--space-l);
+}
+
 .flow > * + * {
   margin-block-start: var(--space-s);
 }
