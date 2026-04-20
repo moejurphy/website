@@ -1,0 +1,18 @@
+.tagpills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-s);
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.tagpills li {
+    background-color: var(--cyan);
+    color: var(--darkblue);
+    padding: var(--space-xs) var(--space-s);
+    border-radius: 9999px;
+    white-space: nowrap;
+    font-size: var(--step--1);
+    font-weight: 500;
+}
